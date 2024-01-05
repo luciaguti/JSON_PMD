@@ -1,1 +1,1 @@
-[{"id": 19400,"name": "banana chips","image": "banana-chips.jpg"},{"id": 93779,"name": "banana liqueur","image": "limoncello.jpg"}]
+[{"id": 19400,"name": "banana chips","image": "https://st.depositphotos.com/1642482/2523/i/450/depositphotos_25238775-stock-photo-bunch-of-bananas.jpg"},{"id": 93779,"name": "banana liqueur","image": "https://st.depositphotos.com/1642482/2523/i/450/depositphotos_25238775-stock-photo-bunch-of-bananas.jpg"}]
